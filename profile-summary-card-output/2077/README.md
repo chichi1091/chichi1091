@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/chichi1091/chichi1091/main/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
